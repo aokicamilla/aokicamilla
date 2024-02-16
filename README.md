@@ -8,8 +8,6 @@
 </div>
 </br>
 
-</br>
-
 - 💻 I started to code last year, before that I worked with music and theater since 2009. 
 - 📚 I’m currently studying a lot to work with technology.
 - ⭐ If you want to help with some guide,tips or something, feel free to contact me.
