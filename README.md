@@ -1,11 +1,9 @@
- <h1 style="color: #365486;"> My GitHub</h1> 
-
 <img align="right" width="230px" src="src/avatar.png" >
 <div display="inline-block">
  
- <h1 align="left" style="color:#BB9CC0;"> Camilla Aoki</h1> 
+ <h1 align="left" style="color:#365486;"> Camilla Aoki</h1> 
  <h2 style="color:#7FC7D9;">CAoki - (she/her)</h2>
-  <h3 style="color:#E7BCDE;">32 years old<br> Brazil</h3>
+  <h3 style="color:#BB9CC0;">32 years old<br> Brazil</h3>
 
 </div>
 </br>
