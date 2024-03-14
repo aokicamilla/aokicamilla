@@ -9,13 +9,15 @@
 </br>
 
 - 💻 I started to code last year, before that I worked with music and theater since 2009. 
-- 📚 I’m currently studying a lot to work with technology.
+- 📚 I’m currently studying Analysis and System Development and also a scholarship at 'Desenvolve Boticário' with Alura .
+- 📖 I like to study, I'm organized, determined and proactive.
 - ⭐ If you want to help with some guide,tips or something, feel free to contact me.
 - 📫 You can reach me on my LinkedIn or e-mail below!
+  
   <h3 style="color:#E7BCDE;">More about me</h3>
 
 - 🎵 I love to play instruments and sing.
-- 🎮 In my free time I like to play video games.
+- 🎮 In my free time, I like to play video games.
 ##
 ## <span style="color:#BB9CC0;">Contact</span>
 
