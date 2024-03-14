@@ -35,15 +35,6 @@
 <img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
 <br>
 
-## <span style="color:#BB9CC0;">Stats</span>
-
-<div>
-<a href="https://github.com/aokicamilla">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokicamilla&layout=compact&langs_count=7&theme=dracula"/>
-<br>
-<br>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=aokicamilla&show_icons=true&theme=radical&include_all_commits=true&count_private=true/">
-</div>
 
 
 
